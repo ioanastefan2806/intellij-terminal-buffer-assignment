@@ -1,0 +1,1 @@
+# intellij-terminal-buffer
