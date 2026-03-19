@@ -1,4 +1,8 @@
 # Terminal Text Buffer 🖥️
+###### @Copyright Ioana Stefan 2026
+###### github username ioanastefan186 ioanastefan2806
+
+
 
 This project implements a terminal text buffer in Java, including screen and scrollback management, cursor movement, text editing operations, text attributes, wide-character support, and resize behavior.
 
